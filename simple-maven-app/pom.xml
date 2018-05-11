@@ -112,8 +112,8 @@
             </plugin>
             <plugin>
                 <groupId>org.apache.tomcat.maven</groupId>
-                <artifactId>tomcat7-maven-plugin</artifactId>
-                <version>2.2</version>
+                <artifactId>tomcat8-maven-plugin</artifactId>
+                <version>2.0</version>
                 <configuration>
                     <port>10120</port>
                     <contextFile>${basedir}/src/tomcat/context.xml</contextFile>
@@ -139,8 +139,8 @@
                 <plugins>
                     <plugin>
                         <groupId>org.apache.tomcat.maven</groupId>
-                        <artifactId>tomcat7-maven-plugin</artifactId>
-                        <version>2.2</version>
+                        <artifactId>tomcat8-maven-plugin</artifactId>
+                        <version>2.0</version>
                         <configuration>
                             <url>http://54.188.233.107:8080/manager/text</url>
                             <username>admin</username>
@@ -156,8 +156,8 @@
                 <plugins>
                     <plugin>
                         <groupId>org.apache.tomcat.maven</groupId>
-                        <artifactId>tomcat7-maven-plugin</artifactId>
-                        <version>2.2</version>
+                        <artifactId>tomcat8-maven-plugin</artifactId>
+                        <version>2.0</version>
                         <configuration>
                             <url>http://54.188.233.107:8080/manager/text</url>
                             <username>admin</username>
@@ -173,8 +173,8 @@
                 <plugins>
                     <plugin>
                         <groupId>org.apache.tomcat.maven</groupId>
-                        <artifactId>tomcat7-maven-plugin</artifactId>
-                        <version>2.2</version>
+                        <artifactId>tomcat8-maven-plugin</artifactId>
+                        <version>2.0</version>
                         <configuration>
                             <url>http://54.189.100.64:8080/manager/text</url>
                             <username>admin</username>
@@ -190,8 +190,8 @@
                 <plugins>
                     <plugin>
                         <groupId>org.apache.tomcat.maven</groupId>
-                        <artifactId>tomcat7-maven-plugin</artifactId>
-                        <version>2.2</version>
+                        <artifactId>tomcat8-maven-plugin</artifactId>
+                        <version>2.0</version>
                         <configuration>
                             <url>http://54.189.254.254:8080/manager/text</url>
                             <username>admin</username>
